@@ -1,0 +1,20 @@
+(climbing activity){e<=2}
+(olympic){e<=1,i<=1,d<=1}
+(many|type|of climbing|kind)
+(What is bouldering){e<=2,d<=1}|(bouldering){e<=3,d<=1}
+(buildering){e<=1,i<=1,d<=1}
+(canyoneering){e<=2,i<=2,d<=1}|(is canyoneering){e<=2,i<=2,d<=3}
+(chalk climbing){e<=1}
+(competition climbing|competition){e<=1}
+(free climbing|free){e<=1}
+(ice climbing|eluded){e<=1}
+(is indoor climbing|indoor|in door){e<=2}
+(ladder climbing){e<=1,i<=1,d<=1}
+(lumber jack){e<=1,i<=1,d<=1}
+(mallakhamba){e<=2,i<=2,d<=1}
+(mountaineering){e<=1,i<=1,d<=1}
+(is pole climbing){e<=1,d<=3}
+(rock){e<=1,i<=1,d<=1}|(rock climbing){e<=2,i<=1,d<=2}
+(is sport climbing){e<=1,i<=1,d<=2}
+(top roping|roping){e<=1,i<=1,d<=2}
+(tower){e<=1,i<=1,d<=1}|(tower climbing){e<=2,i<=2,d<=2}
