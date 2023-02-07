@@ -94,7 +94,7 @@ def generate(intent):
     intent.
     """
     import openai
-    openai.api_key = "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"     
+    openai.api_key = "YOUR KEY"     
     
     if intent == -2:
         responding = openai.Completion.create(engine="text-davinci-003", prompt=userAsking, max_tokens=64, temperature=0.7)
